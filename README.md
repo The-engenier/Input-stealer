@@ -6,3 +6,5 @@ USE THIS FOR ONLY EDUCATIONAL PURPOSE
 How to run:
 
 python main.py
+
+everything would be stored in data.txt 
